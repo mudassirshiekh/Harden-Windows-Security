@@ -9,6 +9,7 @@
 <a name="readme-top"></a>
 
 ## Harden Windows Safely, Securely, Only With Official Microsoft Methods
+## By Mudassir Alam
 
 </div>
 
